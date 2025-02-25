@@ -1,0 +1,12 @@
+C:\Users\xxlaz\lab-6-doubly-linked-list-ChrizpyCream\Lab06\bin\Debug\net8.0\Lab06.deps.json
+C:\Users\xxlaz\lab-6-doubly-linked-list-ChrizpyCream\Lab06\bin\Debug\net8.0\Lab06.dll
+C:\Users\xxlaz\lab-6-doubly-linked-list-ChrizpyCream\Lab06\bin\Debug\net8.0\Lab06.pdb
+C:\Users\xxlaz\lab-6-doubly-linked-list-ChrizpyCream\Lab06\obj\Debug\net8.0\Lab06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xxlaz\lab-6-doubly-linked-list-ChrizpyCream\Lab06\obj\Debug\net8.0\Lab06.AssemblyInfoInputs.cache
+C:\Users\xxlaz\lab-6-doubly-linked-list-ChrizpyCream\Lab06\obj\Debug\net8.0\Lab06.AssemblyInfo.cs
+C:\Users\xxlaz\lab-6-doubly-linked-list-ChrizpyCream\Lab06\obj\Debug\net8.0\Lab06.csproj.CoreCompileInputs.cache
+C:\Users\xxlaz\lab-6-doubly-linked-list-ChrizpyCream\Lab06\obj\Debug\net8.0\Lab06.sourcelink.json
+C:\Users\xxlaz\lab-6-doubly-linked-list-ChrizpyCream\Lab06\obj\Debug\net8.0\Lab06.dll
+C:\Users\xxlaz\lab-6-doubly-linked-list-ChrizpyCream\Lab06\obj\Debug\net8.0\refint\Lab06.dll
+C:\Users\xxlaz\lab-6-doubly-linked-list-ChrizpyCream\Lab06\obj\Debug\net8.0\Lab06.pdb
+C:\Users\xxlaz\lab-6-doubly-linked-list-ChrizpyCream\Lab06\obj\Debug\net8.0\ref\Lab06.dll
