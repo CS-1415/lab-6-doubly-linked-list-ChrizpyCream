@@ -1,0 +1,6 @@
+C:\Users\xxlaz\lab-6-doubly-linked-list-ChrizpyCream\Lab06.Main\obj\Debug\net8.0\Lab06.Main.csproj.AssemblyReference.cache
+C:\Users\xxlaz\lab-6-doubly-linked-list-ChrizpyCream\Lab06.Main\obj\Debug\net8.0\Lab06.Main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xxlaz\lab-6-doubly-linked-list-ChrizpyCream\Lab06.Main\obj\Debug\net8.0\Lab06.Main.AssemblyInfoInputs.cache
+C:\Users\xxlaz\lab-6-doubly-linked-list-ChrizpyCream\Lab06.Main\obj\Debug\net8.0\Lab06.Main.AssemblyInfo.cs
+C:\Users\xxlaz\lab-6-doubly-linked-list-ChrizpyCream\Lab06.Main\obj\Debug\net8.0\Lab06.Main.csproj.CoreCompileInputs.cache
+C:\Users\xxlaz\lab-6-doubly-linked-list-ChrizpyCream\Lab06.Main\obj\Debug\net8.0\Lab06.Main.sourcelink.json
