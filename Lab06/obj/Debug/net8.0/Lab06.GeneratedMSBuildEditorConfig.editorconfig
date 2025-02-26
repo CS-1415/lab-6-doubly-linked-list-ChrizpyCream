@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Lab06
-build_property.ProjectDir = C:\Users\xxlaz\lab-6-doubly-linked-list-ChrizpyCream\Lab06\
+build_property.ProjectDir = C:\Users\xxlaz\cs1410\lab-6-doubly-linked-list-ChrizpyCream\Lab06\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
